@@ -27,4 +27,4 @@ https://mnowotnik.com
 
 ## Contact
 
-You can find my email either in the github profile or in my webpage.
+You can find my email either on the github profile or on my webpage.
